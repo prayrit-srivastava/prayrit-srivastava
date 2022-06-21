@@ -3,14 +3,13 @@
 **-Hi There**</br>
 **-I am Prayrit Srivastava**
 
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=prayrit-srivastava&theme=dark" width="400">
-<img src="https://leetcard.jacoblin.cool/sriprayrit" width="400">
-Skill:
-<img src="https://skillicons.dev/icons?i=js,html,css,react,php,nodejs,mysql,ai,ps,stackoverflow&perline=5"></img>
-Language:
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python&perline=5"></img>
-  
+Skill:</br></br>
+<img src="https://skillicons.dev/icons?i=js,html,css,react,php,nodejs,mysql,ai,ps,stackoverflow&perline=5"></img></br></br>
+Language:</br></br>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python&perline=5"></img></br></br>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=prayrit-srivastava&theme=dark" width="400"></br></br>
+<img src="https://leetcard.jacoblin.cool/sriprayrit" width="400"></br></br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prayrit-srivastava&theme=tokyonight"></img> 
   
   
  
